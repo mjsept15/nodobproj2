@@ -1,0 +1,32 @@
+.muscles_container_list{
+    padding-left: 20px;
+
+}
+
+.muscle_workout{
+    font-family: impact;
+    color: #FFFFFF;
+    /* border-style: solid;
+    border-color: goldenrod; */
+    display:flex;
+    justify-content: space-evenly;
+    align-items: center; 
+   
+}
+
+
+.individual_muscle{
+     border-style: solid;
+    border-color: goldenrod;
+    /* padding-top: 30px;  */
+    /* padding-bottom: 30px;  */
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.gainz{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}

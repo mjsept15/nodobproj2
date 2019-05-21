@@ -1,0 +1,23 @@
+.workoutList{
+    color: white; 
+}
+
+.individualWorkout{
+    max-height: 300px;
+    max-width: 300px; 
+
+}
+
+.workoutUpdate{
+  color: white;
+  width: 190px;
+   height: 40px; 
+
+}
+
+
+.muscles-targeted{
+color: goldenrod;
+width: 10x;
+font-style: oblique;
+}
